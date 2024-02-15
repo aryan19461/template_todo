@@ -1,0 +1,22 @@
+*{
+    background-color: aquamarine    ;
+}
+h1{
+    font-weight: 1000;
+    font-size: larger;
+    margin: 15px;
+    margin-bottom: 20px;
+}
+input{
+    width: 100%;
+}
+.container{
+     text-align: left;
+}
+.kg-row{
+    margin: 10px 5px;
+   
+}
+.kg-button{
+    min-width: 80px;    
+}
